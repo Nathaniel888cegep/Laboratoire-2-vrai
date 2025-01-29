@@ -1,4 +1,4 @@
-# Demander à l'utilisateur d'entrer un nombre
+# Demander à l'utilisateur d'entrer un nombre quelconque
 nombre_str = input("Entrer un nombre svp : ")
 
 # Convertir le nombre en entier
